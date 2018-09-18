@@ -10,7 +10,7 @@ Analyze the thread dumps and provide a meaningful result to help online troubles
 
 ## Keywords
 
-- Backend: `Java 8`, `Maven 3.0`, `Spring 4.0`, `JUnit 4`, `Hibernates 5.4`, `Flyway`, `Lombok`, `Guava`, `AWS S3`
+- Backend: `Java 8`, `Maven 3`, `Spring Boot 2`, `JUnit 4`, `Hibernates 5.4`, `Flyway 5.1.4`, `Lombok 1.18.2`, `Guava`, `AWS S3`, `SLF4J`
 - Frontend: `React`, `victory`
 
 ## License
