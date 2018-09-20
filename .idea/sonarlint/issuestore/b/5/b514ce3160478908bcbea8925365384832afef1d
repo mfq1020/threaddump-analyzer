@@ -1,9 +1,0 @@
-
-Fsquid:S00108")Either remove or fill this block of code.(Ќ”эѕ8рЫЦьЮ,
-Ysquid:S1155">Use isEmpty() to check whether the collection is empty or not.(У•ѓ08рЫЦьЮ,
-Hsquid:S1602",Remove useless curly braces around statement(«эіп8рЫЦьЮ,
-_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(Щк™нъяяяя8рЫЦьЮ,
-Dsquid:S1148"#Use a logger to log this exception.(ЂЙФ…эяяяя8рЫЦьЮ,
-Msquid:S1172"1Remove this unused method parameter "isReversed".(ґћ’Ю8рЫЦьЮ,
-€ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(НЋµM8рЫЦьЮ,
-Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(дрФу8чЅ­‰Я,

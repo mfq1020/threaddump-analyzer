@@ -1,7 +1,0 @@
-
-Jsquid:S1133"5Do not forget to remove this deprecated code someday.(”ÂŠ×
-[squid:S1126"AReplace this if-then-else statement by a single return statement.(ð•š—ûÿÿÿÿ
-Asquid:S1602",Remove useless curly braces around statement(×äç‰
-Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ð•š—ûÿÿÿÿ
-Asquid:S1602",Remove useless curly braces around statement(×äç‰
-Nsquid:MissingDeprecatedCheck"(Add the missing @deprecated Javadoc tag.(”ÂŠ×
