@@ -1,0 +1,11 @@
+
+Nsquid:S1854"9Remove this useless assignment to local variable "index".(ÅåÓ£
+asquid:S3027"GPut single-quotes around '\"' to use the faster "indexOf(char)" method.(˜ÙÜËüÿÿÿÿ
+`squid:S3027"FPut single-quotes around '<' to use the faster "indexOf(char)" method.(ï¥Ò¢ÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+esquid:S3027"KPut single-quotes around '\"' to use the faster "lastIndexOf(char)" method.(˜ÙÜËüÿÿÿÿ
+Nsquid:S1854"9Remove this useless assignment to local variable "index".(ÅåÓ£
+[squid:S3027"FPut single-quotes around 'x' to use the faster "indexOf(char)" method.(÷œ¢
+esquid:S3027"KPut single-quotes around '\"' to use the faster "lastIndexOf(char)" method.(½ªÎûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñĞâúÿÿÿÿ
+dsquid:S3027"JPut single-quotes around '>' to use the faster "lastIndexOf(char)" method.(ï¥Ò¢ÿÿÿÿÿ

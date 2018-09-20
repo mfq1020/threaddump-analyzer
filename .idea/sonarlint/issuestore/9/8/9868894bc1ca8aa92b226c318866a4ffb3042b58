@@ -1,0 +1,8 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù¯µùøÿÿÿÿ8¶Ð˜üÞ,
+¬%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¾çÚ¿ûÿÿÿÿ8¶Ð˜üÞ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Üºåàûÿÿÿÿ8¶Ð˜üÞ,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(À¬í¯úÿÿÿÿ8¶Ð˜üÞ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø‹§Õÿÿÿÿÿ8¶Ð˜üÞ,
