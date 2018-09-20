@@ -2,7 +2,7 @@
 Analyze the thread dumps and provide a meaningful result to help online troubleshooting.
 
 ## Features
-- [ ] Analyse the thread dumps and provide the results based on [HOW_TO_USE](HOWTOUSE.md)
+- [ ] Analyse the thread dumps and provide the results based on [HOW_TO_USE](doc/HOWTOUSE.md)
 - [ ] Compare several dumps altogether to track down the states changes
 - [ ] Compatible with different formats
 - [ ] Intuitive Dashboard to locate the critical issues
